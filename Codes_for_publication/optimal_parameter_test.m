@@ -100,7 +100,7 @@ sigma_tau_scale=1;
 
 
 
-generate_prior_NN(d_u,d_tau,omega_u,sigma_u,alpha_1,alpha_2,sigma_tau_scale);
+generate_covariate_data(d_u,d_tau,omega_u,sigma_u,alpha_1,alpha_2,sigma_tau_scale);
 
 % [~,error_message]=system('conda activate enso && python ENSO_figure.py');
 [~,error_message]=system('python ENSO_figure.py');
