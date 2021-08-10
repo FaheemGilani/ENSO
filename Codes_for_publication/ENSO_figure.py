@@ -1086,5 +1086,5 @@ sio.savemat('pythonresults.mat',{'time_1':time_1,'time_2':time_2,'response_test_
                                    'TEWBHW_prediction_Linearnet_priorpost_1':TEWBHW_prediction_Linearnet_priorpost_1,'TEWBHW_prediction_Linearnet_priorpost_2':TEWBHW_prediction_Linearnet_priorpost_2,
                                    'TEWBHW_prediction_Linearnet_priorpostdata_1':TEWBHW_prediction_Linearnet_priorpostdata_1,'TEWBHW_prediction_Linearnet_priorpostdata_2':TEWBHW_prediction_Linearnet_priorpostdata_2,
                                    'TEWBHW_prediction_Linearnet_data_1':TEWBHW_prediction_Linearnet_data_1,'TEWBHW_prediction_Linearnet_data_2':TEWBHW_prediction_Linearnet_data_2, 
-                                   'TEWBHW_prediction_Linearnet_sampling_1':TEWBHW_prediction_Linearnet_sampling_1,'TEWBHW_prediction_Linearnet_sampling_2':TEWBHW_prediction_Linearnet_sampling_2)
+                                   'TEWBHW_prediction_Linearnet_sampling_1':TEWBHW_prediction_Linearnet_sampling_1,'TEWBHW_prediction_Linearnet_sampling_2':TEWBHW_prediction_Linearnet_sampling_2})
 
